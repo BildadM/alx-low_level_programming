@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * sum - sum two numbers
+ * add - sum two numbers
+ *
  * @a: int one
  * @b: int two
  *
  * Return: sum
  */
 
-int sum(int a, int b)
+int add(int a, int b)
 {
 	return (a + b);
 }
